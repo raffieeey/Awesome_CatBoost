@@ -130,5 +130,6 @@ The **[Awesome CatBoost Repository](https://github.com/valeman/Awesome_CatBoost)
 2. [Probabilistic forecasting I: Temperature](https://www.kaggle.com/competitions/probabilistic-forecasting-i-temperature/discussion/524303) (2024) 🔥🔥🔥🔥🔥
 
 
-
+## Toolkit 
+1. [CatBoost utility toolkit for real-world pipelines](https://github.com/raffieeey/catboost_utility) by raffieeey (2026)
 
